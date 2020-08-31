@@ -1,0 +1,15 @@
+{
+  "name": "dependency-injection",
+  "version": "1.0.0",
+  "description": "Testing depedeny injection on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Gerson Tarifeño Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
+  }
+}
