@@ -1,3 +1,4 @@
 design-pattern.code-workspace
 
-./Other/dependency-injection/node_modules
+Other/dependency-injection/node_modules
+Example/node_modules
