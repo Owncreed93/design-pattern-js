@@ -1,3 +1,4 @@
+// * DEPENDENCIES INYECTION
 module.exports = resource => ( {axios} ) => ({
 
     get: async (req, res) => {

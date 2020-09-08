@@ -4,6 +4,7 @@ const instance = axios.create({
     baseUrl: 'https://jsonplaceholder.typicode.com',
 })
 
+// * ADAPTER PATTERN
 const adapter = {
 
     get: url => instance.get(url),
