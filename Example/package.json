@@ -1,0 +1,16 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "This is project created by HolaMundo!, here I follow the instructions to use patterns on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Tarifeño",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
